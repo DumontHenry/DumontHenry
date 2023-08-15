@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Someone
-- 👀 I’m interested in Security 
+- 👀 I’m interested in Python Dev 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developping
 - 📫 How to reach me ...
